@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Junwon (Alex) Hur # the website title (if blank, full name will be used instead)
+title: # the website title (if blank, full name will be used instead)
 first_name: Junwon
 middle_name: A.
 last_name: Hur
@@ -91,8 +91,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: junwon's blog # blog_name will be displayed in your blog page
+blog_description: blog posts
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
